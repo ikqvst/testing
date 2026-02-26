@@ -1,3 +1,3 @@
-# testing
-# hi
-bye
+# Testing
+
+Hi — bye.
